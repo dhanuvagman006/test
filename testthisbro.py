@@ -14,7 +14,7 @@ OUTPUT_PATH = "output.mp3"
 VOICE = "en-US-JennyNeural"
 RATE = "+7%"
 
-API_KEY = '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'
+API_KEY = 'add u'
 API_URL = 'https://openrouter.ai/api/v1/chat/completions'
 HEADERS = {
     'Authorization': f'Bearer {API_KEY}',
